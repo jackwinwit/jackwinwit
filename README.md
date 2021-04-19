@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackwinwit
-- 👀 I’m interested in software engineering, website development and discord bot development.
-- 🌱 I’m currently learning VisualBasic and Javascript.
+- 👀 I’m interested in software engineering, website development bot development.
+- 🌱 I have experience with HTML, CSS, Javascript, NodeJS and Visual Basic. I am also learning Python.
 - 💞️ I’m looking to collaborate on any bot development projects or websites.
 - 📫 I'm reachable at jackwinwit@hotmail.co.uk or @thebritguyy on Twitter.
 
