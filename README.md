@@ -2,4 +2,4 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwinwit&layout=compact&theme=react)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackwinwit)](https://github.com/anuraghazra/github-readme-stats&theme=react)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackwinwit&theme=react)](https://github.com/anuraghazra/github-readme-stats)
